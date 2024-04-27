@@ -15,8 +15,8 @@
 }
 .music-player {
   background: #ffe0e5;
-  width: 480px;
-  padding: 25px 35px;
+  width: 380px;
+  padding: 15px 35px;
   text-align: center;
 }
 nav {
@@ -86,7 +86,7 @@ nav .circle {
   cursor: pointer;
 }
 .controls div:nth-child(2) {
-    transform: scale(1.5);
-    background: #f53192;
-    color: #fff;
-} 
+  transform: scale(1.2);
+  background: #f53192;
+  color: #fff;
+}
